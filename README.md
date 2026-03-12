@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18934949.svg)](https://doi.org/10.5281/zenodo.18934949)
+
 k-adic Collatz Constellations
 Prime-Preserving k-adic Collatz Chains on a Logarithmic Spiral
 Hiroshi Harada — March 10, 2026
